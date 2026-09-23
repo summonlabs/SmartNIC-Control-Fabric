@@ -1,0 +1,7 @@
+# The repository is line-ending neutral on checkout but canonical in the index.
+* text=auto eol=lf
+
+# Binary fixtures must never be normalised.
+*.png binary
+*.jpg binary
+*.ico binary

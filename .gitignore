@@ -1,0 +1,27 @@
+# Build trees
+build/
+out/
+install/
+
+# Editor and IDE state
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Compiler and linker output
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# Test and runtime artefacts
+*.log
+*.sncf
+Testing/
